@@ -1,13 +1,13 @@
 {
-  "name": "try",
+  "name": "socket-io-real-time",
   "version": "1.0.0",
-  "description": "",
+  "description": "Assignment 6 ",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Neha Bist Rawat",
-  "license": "ISC",
+  "author": "Amit Bidwai",
+  "license": "MIT",
   "dependencies": {
     "ejs": "^2.3.4",
     "express": "^4.13.3",
