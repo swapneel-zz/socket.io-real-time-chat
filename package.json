@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Amit Bidwai",
+  "author": "swapnil palsapure",
   "license": "MIT",
   "dependencies": {
     "ejs": "^2.3.4",
